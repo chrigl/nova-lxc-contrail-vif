@@ -1,6 +1,10 @@
 nova-lxc-contrail-vif-driver
 ============================
 
+**Update**: Patch is available in nova-contrail-vif-driver.
+* https://review.opencontrail.org/#/c/2806/
+* https://review.opencontrail.org/#/c/2811/
+
 OpenStack Nova VIF driver for OpenContrail to be used with LXC as hypervisor.
 
 Edit your ```/etc/nova/nova.conf```:
